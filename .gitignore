@@ -22,7 +22,7 @@ Thumbs.db
 dist/
 build/
 
-# Coverage (если юзаешь тесты)
+# Coverage 
 coverage/
 
 # PM2
